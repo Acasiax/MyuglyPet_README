@@ -45,7 +45,3 @@
 - **데이터베이스**: server 연동
 - **Reactive Programming**: RxSwift, Rxcocoa (MVVM 패턴)
 
-
-## 🤔 고민한 부분
-
-## 😨 트러블 슈팅
