@@ -1,4 +1,4 @@
-# **못난이 앱** - 반려동물 소셜 네트워크 앱
+# **못난이 앱** - 반려동물 소셜 네트워크 SNS 앱
 <img src="https://github.com/user-attachments/assets/23c7f3b8-6d2d-42a5-beca-07a78feb3ede" alt="못난이 앱 로고" width="120" height="120">
 
 ## 프로젝트 소개
@@ -45,7 +45,6 @@
 - **데이터베이스**: server 연동
 - **Reactive Programming**: RxSwift, Rxcocoa (MVVM 패턴)
 
-## 📁 디렉토리 구조
 
 ## 🤔 고민한 부분
 
