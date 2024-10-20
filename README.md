@@ -40,10 +40,10 @@
 
 ## 🛠️ 기술 스택
 
-- **UI**: SwiftUI – 직관적인 사용자 인터페이스 구현
-- **네트워크**: Alamofire – RESTful API 및 WebSocket 통신
-- **데이터베이스**: RealmSwift – 사용자 데이터 영구 저장
-- **Reactive Programming**: RxSwift – 반응형 프로그래밍을 통한 데이터 흐름 관리
+- **UI**: UIKit, Snapkit
+- **네트워크**: Alamofire
+- **데이터베이스**: server 연동
+- **Reactive Programming**: RxSwift, Rxcocoa (MVVM 패턴)
 
 ## 📁 디렉토리 구조
 
