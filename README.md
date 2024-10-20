@@ -12,9 +12,15 @@
 
 
 ## 시뮬레이터
-| 로그인 화면 | 프로필 정보 업데이트 | 게시글 등록/수정/삭제 | 팔로워/팔로잉 기능 | 랭킹 참여 | PG 결제 |
-|---------------|---------------|---------------|---------------|---------------|---------------|
-| <img src="URL_TO_IMAGE_1" width="200" /> | <img src="URL_TO_IMAGE_2" width="200" /> | <img src="URL_TO_IMAGE_3" width="200" /> | <img src="URL_TO_IMAGE_4" width="200" /> | <img src="URL_TO_IMAGE_5" width="200" /> | <img src="URL_TO_IMAGE_6" width="200" /> |
+| 로그인 화면 | 게시글 등록 | 게시글 등록/수정/삭제 | 팔로워/팔로잉 기능 |
+|---------------|---------------|---------------|---------------|
+| <img src="https://github.com/user-attachments/assets/1d8d56a2-6f2f-4edc-a155-8c1ccb7cd00d" width="200" /> | <img src="https://github.com/user-attachments/assets/f98ac1d3-4cec-4a2b-bd07-ebc6123cfd7e" width="200" /> | <img src="https://github.com/user-attachments/assets/658b275c-7d08-41bc-8f11-7132f2fc2072" width="200" /> | <img src="https://github.com/user-attachments/assets/13d5f08e-904f-4a00-adcf-75d222dfc00e" width="200" /> |
+
+
+
+| 랭킹 참여 | PG 결제 |
+|---------------|---------------|
+| <img src="https://github.com/user-attachments/assets/293e8d13-130e-41ac-9f29-3b31f3f5aad8" width="200" /> | <img src="https://github.com/user-attachments/assets/c3835648-a349-42b2-8a57-e9128a742014" width="200" /> |
 
 ## ⚙️ 주요 기능
 
